@@ -12,6 +12,10 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+## App Hosted Link:
+
+Open Link to View App [https://gatsby-blogsite-2021.netlify.app/](https://gatsby-blogsite-2021.netlify.app/)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
