@@ -1,0 +1,15 @@
+$main_clr1: #272525;
+$main_clr2: #645f5f;
+$main_clr3: #a39e9e;
+
+.layout {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+  min-height: 100vh;
+  > div {
+    flex-grow: 1;
+  }
+}

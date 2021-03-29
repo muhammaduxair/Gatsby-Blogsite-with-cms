@@ -1,0 +1,33 @@
+$main_clr1: #272525;
+$main_clr2: #645f5f;
+$main_clr3: #a39e9e;
+
+.header {
+  display: flex;
+  flex-direction: column;
+  h1 {
+    margin-top: 20px;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  > ul {
+    list-style: none;
+    display: flex;
+    margin-left: 0;
+    a {
+      text-decoration: none;
+      color: $main_clr3;
+      margin-right: 30px;
+      font-size: 20px;
+    }
+    a:hover {
+      color: $main_clr2;
+    }
+    a:active {
+      color: $main_clr1;
+    }
+  }
+}
+.activeLink {
+  color: $main_clr1 !important;
+}
